@@ -70,17 +70,17 @@
     "top_surface_line_width": "0.42",
     "top_surface_speed": "30",
     "travel_speed": "400",
-    "enable_prime_tower": "0",
+    "enable_prime_tower": "1",
     "prime_tower_width": "60",
     "xy_hole_compensation": "0",
     "xy_contour_compensation": "0",
     "role_based_wipe_speed": "1",
     "detect_narrow_internal_solid_infill": "1",
     "top_shell_thickness": "0.8",
-    "bottom_shell_thickness":"0.8",
+    "bottom_shell_thickness": "0.8",
     "gap_fill_target": "everywhere",
     "filter_out_gap_fill": "1",
     "ensure_vertical_shell_thickness": "ensure_all",
     "compatible_printers": [],
-	"slowdown_for_curled_perimeters": "0"
+    "slowdown_for_curled_perimeters": "0"
 }

@@ -5,7 +5,7 @@
     "instantiation": "false",
     "inherits": "fdm_filament_common",
 	"fan_cooling_layer_time": ["100"],
-	"filament_max_volumetric_speed": ["42"],
+	"filament_max_volumetric_speed": ["32"],
 	"filament_type": ["PLA"],
 	"filament_density": ["1.24"],
 	"filament_cost": ["37.50"],

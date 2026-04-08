@@ -6,6 +6,7 @@
     "from": "system",
     "instantiation": "true",
     "inherits": "fdm_filament_pla",
+	"filament_type": ["UNIV"],
 	"filament_flow_ratio": [
         "1.00"
     ],
